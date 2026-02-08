@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-08 17:23:14,https://hls-gateway.vpstv.net/streams/476879.m3u8
+2026-02-08 17:59:49,https://hls-gateway.vpstv.net/streams/476879.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
@@ -27,6 +27,7 @@ CCTV-5,https://hls-gateway.vpstv.net/streams/476885.m3u8
 CCTV-5,http://3501776.xyz:35455/gaoma/cctv5.m3u8
 CCTV-5,http://lu.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive
 CCTV-5,https://migu.188766.xyz/?migutoken=3b887d4ae12bfc15d254b2922de19f6b&id=CCTV5&type=yy
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,https://hls-gateway.vpstv.net/streams/476888.m3u8
 CCTV-5+,http://lu.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenlive
 CCTV-5+,https://t.freetv.fun/live/cctv5-plus.php
