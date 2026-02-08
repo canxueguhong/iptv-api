@@ -2,5 +2,8 @@
 # This is the EPG subscription list used to generate M3U result channel menu information
 
 
+http://cdn.1678520.xyz/epg/?ch={name}&date={date}
+https://epg.112114.eu.org/logo/{name}.png
+https://epg.112114.xyz/logo/{name}.png
 
 
