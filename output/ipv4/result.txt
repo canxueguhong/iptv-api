@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-08 17:01:41,https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
+2026-02-08 17:16:12,https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
 
 央视,#genre#
 CCTV1,https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/

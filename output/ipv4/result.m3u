@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/canxueguhong/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.183:5180/logo/CCTV1.png" group-title="🕘️更新时间",2026-02-08 17:01:41
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.39:5180/logo/CCTV1.png" group-title="🕘️更新时间",2026-02-08 17:16:12
 https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.183:5180/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://10.1.0.39:5180/logo/CCTV1.png" group-title="央视",CCTV1
 https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
