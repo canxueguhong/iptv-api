@@ -15,7 +15,6 @@ on:
     - cron: '0 22 * * *'
     - cron: '0 10 * * *'
 
-on:
   workflow_dispatch:
 
 jobs:
