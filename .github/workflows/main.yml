@@ -11,7 +11,7 @@ name: 'Update schedule'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 20 * * *'  # 每天北京时间 04:00 执行
+    - cron: '0 4 * * *'  # 每天北京时间 04:00 执行
 
 permissions:
   contents: write
