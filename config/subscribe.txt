@@ -33,7 +33,41 @@ https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt
 https://bc.188766.xyz/?ip=&mima=bingcha1130
 http://64.112.42.49:6688/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://d.kstore.dev/download/4127/live20220813.txt
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+http://lisha521.dynv6.net.fh4u.org/tv.txt
+http://lisha521.dynv6.net.fh4u.org/iptv.txt
+http://lisha521.dynv6.net.fh4u.org/hlj.txt
+http://rihou.cc:555/gggg.nzk
+http://lisha521.dynv6.net.fh4u.org/live.txt
+http://127.0.0.1:10079/c/3600/null/http://lisha521.dynv6.net.fh4u.org/live1.txt
+http://zhibo.youdu.fan:8008/m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
+https://ghproxy.it/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u
+https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://ds65.tv1288.xyz
+https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/529EAA1_773_jsyd_20251205182514164newMediaFile.bmp
+https://sub.ottiptv.cc/huyayqk.m3u
+https://sub.ottiptv.cc/bililive.m3u
+https://sub.ottiptv.cc/douyuyqk.m3u
+https://sub.ottiptv.cc/yylunbo.m3u
 
+
+http://rihou.cc:555/gggg.nzk
+https://live.catvod.com/tv.m3u
+https://bc.188766.xyz/?ip=&mima=bingcha1130&json=true
+http://iptv.4666888.xyz/FYTV.txt
+https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u
+http://12306.ct.ws/users/HKTV.txt
+https://tv.iill.top/m3u/Gather
+https://m.iill.top/Live.m3u
+https://tv.iill.top/m3u/MyTV
+https://tv.iill.top/m3u/Sport
+https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u
+https://smart.pendy.dpdns.org/m3u/judy.m3u
+https://json.doube.eu.org/python/live_smt.py
 
 
 
