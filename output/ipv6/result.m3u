@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/canxueguhong/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.com/fanmingming/live/tree/main/tv/{name}.png/CCTV-1.png" group-title="🕘️更新时间",2026-02-14 14:37:21
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://github.com/fanmingming/live/tree/main/tv/{name}.png/CCTV-1.png" group-title="🕘️更新时间",2026-02-15 14:26:32
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 #EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://github.com/fanmingming/live/tree/main/tv/{name}.png/CETV-3.png" group-title="📺央视频道",CETV-3
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
